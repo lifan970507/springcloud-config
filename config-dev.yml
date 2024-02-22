@@ -1,5 +1,5 @@
 config:
-  info: zzzxxxdd -v1.0
+  info: zzzxxxdd -v2.0
 
 eureka:
   client:
